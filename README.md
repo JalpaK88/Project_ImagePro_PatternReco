@@ -1,5 +1,5 @@
 # Project_ImagePro_PatternReco
-FaceRecognition and Intruder detection using Eigenface (PCA):
-Dimensionality Challenges, Data Visualization and PCA:
-Comparative Analysis of Classification Algorithms on Text Data:
-Bayesian and Euclidean Distance Classification for 2D Gaussian-Distributed Data:
+**Image Processing_Pattern Recognition Projects:**
+Assignment_1_All.zip, Assignment_2_All.zip, Submission_Assignment_3_All.zip, Assignment_4_All.zip
+**Data Mining Projects:**
+Project_1_DM.zip, Project_2_DM.zip, Project_3_DM.zip, Project_4_DM.zip 
